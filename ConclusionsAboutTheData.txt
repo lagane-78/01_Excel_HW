@@ -1,0 +1,17 @@
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+    From the category_pivot graph , it appears that theatre has the most successful number of projects and from the sub-category graph it appears that plays withins theatres are the most successful
+    
+    Also journalism has only cancelled projects which means no successful projects in journalism 
+
+2. What are some limitations of this dataset?
+    The data is clearly from 2009-2017 only. When i did a google search on kickstarter campaign now, it was mentinoed that only 37% of the kickstart projects are successful.
+    Based on the calculation for the given data, 53% are successful ( sheet - successful project percent ). So clearly we need more data to present an accurate picture
+    The returns or incentives for the backers/people could help determine if the project might be successful or help change the strategy to pledge
+    The description data could be more specific to be able to get more pledges or predict outcome.
+    
+
+3. What are some other possible tables and/or graphs that we could create?
+Average donation per category and/or sub-category
+How much time do organization have to complete project, it could help understand if timeline was a factor in the success or cancelation of a project
+Pehaps graph the funding/pledges and percent funded against the category/sub-category
+Perhaps we can remove the theatre category to see how the rest of the projects fare since theatre/plays has the most successful, it might offer a different perspective removing this.
